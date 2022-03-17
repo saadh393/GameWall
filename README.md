@@ -1,4 +1,6 @@
-![GameWall - Game Wallpapers - HD, 2K, 4K](https://raw.githubusercontent.com/saadh393/GameWall/main/gamewall.webp)
+<p align='center'>
+	<img src="https://raw.githubusercontent.com/saadh393/GameWall/main/gamewall.webp" alt="Game Wallpapers - HD, 2K, 4K"/>
+</p>
 
 # [GameWall - Game Wallpapers - HD, 2K, 4K](https://play.google.com/store/apps/details?id=com.wwinc.gameWall)
 
