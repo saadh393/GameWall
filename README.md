@@ -2,7 +2,7 @@
 	<img src="https://raw.githubusercontent.com/saadh393/GameWall/main/gamewall.webp" alt="Game Wallpapers - HD, 2K, 4K"/>
 </p>
 
-# ![#00000][GameWall - Game Wallpapers - HD, 2K, 4K](https://play.google.com/store/apps/details?id=com.wwinc.gameWall)
+# [GameWall - Game Wallpapers - HD, 2K, 4K](https://play.google.com/store/apps/details?id=com.wwinc.gameWall)
 
 GameWall - Game Wallpapers - Free HD 2K 4K Wallpaper is brought to you by WW Inc.
 Set the wallpaper of various popular games using this app. There is a huge collection of game wallpaper here & growing as new games are releasing every month. Most of all it is totally free & always will be. GameWall - Game Wallpapers is based on all the popular games & latest upcoming also, so that can find here the most favorite wallpapers that gamer like.
