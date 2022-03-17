@@ -1,6 +1,4 @@
-<p align="center">
-![GameWall - Game Wallpapers - HD, 2K, 4K](https://raw.githubusercontent.com/saadh393/GameWall/main/gamewall.webp "GameWall - Game Wallpapers - HD, 2K, 4K")
-</p>
+![GameWall - Game Wallpapers - HD, 2K, 4K](https://raw.githubusercontent.com/saadh393/GameWall/main/gamewall.webp)
 
 # [GameWall - Game Wallpapers - HD, 2K, 4K](https://play.google.com/store/apps/details?id=com.wwinc.gameWall)
 
@@ -30,7 +28,8 @@ Please follow the below instructions to run this project in your machine:
    ```
 4. Click on Clone
 
-## Changelog
+## Change Log
+
 March 17 2022
 ```sh
 	+ util.kt - Line 6 > "https://api.weblywork.com/api/get/"
