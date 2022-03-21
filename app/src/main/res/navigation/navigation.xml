@@ -18,7 +18,7 @@
     <fragment
         android:id="@+id/containerFragment2"
         android:name="com.wwinc.moviewall.Launcher.ContainerFragment"
-        android:label="ContainerFragment" />
+        android:label="Home" />
     <fragment
         android:id="@+id/viewPagerFragment"
         android:name="com.wwinc.moviewall.detailsView.ViewPager.ViewPagerFragment"
